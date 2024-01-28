@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Khadka</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
-">
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Yogesh%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0g3shpf&label=Profile%20views&color=0e75b6&style=flat" alt="y0g3shpf" /> </p>
 
 - 🌱 I’m currently learning **Java Script**
