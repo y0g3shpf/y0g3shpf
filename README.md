@@ -6,8 +6,7 @@
 <a href="https://linkedin.com/in/yogesh-khadka-76b77118b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh-khadka-76b77118b" height="30" width="40" /></a>
 <a href="https://fb.com/myheartbelongstopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myheartbelongstopf" height="30" width="40" /></a>
 <a href="https://instagram.com/yogeshkc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogeshkc0" height="30" width="40" /></a>
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Neutron975)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/791137267535970324)
+
 </p>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
