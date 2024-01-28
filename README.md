@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Khadka</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="[![image](https://github.com/y0g3shpf/y0g3shpf/assets/108446875/ca941f4d-d9dc-4de9-aef4-bae946b6ba01)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmUwMXg4dHF4Y2NoY2oxbnIydzl3dm1lZGNmd3RlZHBsYnFhdjI0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0g3shpf&label=Profile%20views&color=0e75b6&style=flat" alt="y0g3shpf" /> </p>
 
 - 🌱 I’m currently learning **Java Script**
