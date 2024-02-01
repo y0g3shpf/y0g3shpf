@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0g3shpf&label=Profile%20views&color=0e75b6&style=flat" alt="y0g3shpf" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML,CSS and JavaScript**
 
 - 📫 How to reach me **diamondproxc99@gmail.com**
 
