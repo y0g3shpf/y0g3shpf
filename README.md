@@ -1,7 +1,6 @@
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Yogesh%F0%9F%91%8B;Let's+Connect!"/>
 </div>
-
 <p align="left">
 <a href="https://linkedin.com/in/yogesh-khadka-76b77118b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh-khadka-76b77118b" height="30" width="40" /></a>
 <a href="https://fb.com/myheartbelongstopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myheartbelongstopf" height="30" width="40" /></a>
